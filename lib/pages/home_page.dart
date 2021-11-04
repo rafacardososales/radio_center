@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
   //Key
   setupAlan(){
     AlanVoice.addButton(
-        "03fda28f824be5c798e4f6f0ca07008e2e956eca572e1d8b807a3e2338fdd0dc/stage",
+        "YOU_KEY",
         buttonAlign: AlanVoice.BUTTON_ALIGN_RIGHT);
     AlanVoice.callbacks.add((command) => _commands(command.data));
   }
