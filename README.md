@@ -1,16 +1,23 @@
-# radio_app
+# Radio Center
 
-A new Flutter project.
+Projeto completo de um aplicativo de radio integrado a uma AI (Alan).
 
-## Getting Started
+ 
+## Como funciona?
 
-This project is a starting point for a Flutter application.
+O app consiste em uma radio na qual se consome alumas Apis de sua escolha para que toque suas radios preferidas.
 
-A few resources to get you started if this is your first Flutter project:
+Integrado a radio esta a AIAlan pre programada para executar comandos dentro do app atraves de comandos de voz.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Segue abaixo imagens do App e o codigo usado para configurar o script da ai no site da Alan Studio.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lembrando que o Alan tambem pode ser configurado em pt-br se assim preferir.
+
+Site: https://studio.alan.app/
+
+
+#PREVIEW
+##
+![](assets/exemplo.png)
+##
+![](assets/codeRef.png)
